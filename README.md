@@ -67,6 +67,6 @@ O modelo foi treinado por 50 épocas e alcançou uma **acurácia de validação 
 
 ### Matriz de Confusão
 A matriz de confusão gerada ao final do treinamento mostra o desempenho detalhado do modelo na classificação das imagens do conjunto de validação.
-![Matriz de Confusão](https://github.com/jybass/CNN_Brain_Tumor/blob/main/imagens/Print%20do%20gr%C3%A1fico%20de%20acur%C3%A1cia.PNG)
+![Matriz de Confusão](https://github.com/jybass/CNN_Brain_Tumor/blob/main/imagens/Print%20da%20matriz%20de%20confus%C3%A3o.PNG)
 
 ---
