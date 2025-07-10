@@ -14,9 +14,7 @@ Este projeto consiste na construção e treinamento de uma Rede Neural Convoluci
 - [Visão Geral](#-visão-geral)
 - [Dataset](#-dataset)
 - [Arquitetura do Modelo](#-arquitetura-do-modelo)
-- [Como Executar](#-como-executar)
 - [Resultados](#-resultados)
-- [Autor](#-autor)
 
 ---
 
